@@ -8,7 +8,7 @@ declare -a names=("ncgas_admin")
 #if more than one the syntax is as below:
 #declare -a names=("user1" "user2") 
 
-p=temporarypasswords4thewin!
+p=temporarypasswords4thewin!		#you should change this or tell people to change it themselves if they have sudo
 
 for i in "${names[@]}"
 do
