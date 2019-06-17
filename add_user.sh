@@ -2,7 +2,7 @@
 
 #This script adds users to a system (intended for Jetstream VM) with the ability to ssh into the shell for collaborative use.
 #SEE www.ncgas.org/NCGAS_Blog.php/Adding%Users%to%Jetstream.php  up soon!
-http://ncgas.org/Blog_Posts/Installing%20conda%20packages%20locally.php
+#http://ncgas.org/Blog_Posts/Installing%20conda%20packages%20locally.php
 
 declare -a names=("ncgas_admin")
 
